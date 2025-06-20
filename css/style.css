@@ -1,0 +1,298 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrapper {
+    margin: 0 auto;
+    max-width: 990px;
+}
+
+#menu {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #91770e;
+    padding-bottom: 5px;
+}
+
+#menu ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+    font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+    font-size: 21.93px;
+}
+
+#content {
+    background: url(../images/backround_hiasan.png), #f9f3d1;
+    
+}
+
+.w-850 {
+    
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.black-box {
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    background-color: black;
+    padding: 10px; 
+}
+
+p.img-text{
+    max-width: 361px;
+    margin: auto;
+    font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.minor-box-flex {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.minor-box{
+    color:#d4af37;
+    background-color: black;
+    width: 276px;
+    height: 80px;
+    font-size: 11.46px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    
+}
+
+.minor-box a {
+    color: black;
+    text-decoration: none;
+   background-color: white;
+   padding: 3px;
+   border-radius: 5px;
+   font-size: 14px;
+   font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+   
+}
+
+.link {
+    text-align: center;
+}
+
+.black-box-2 {
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 13px;
+    
+}
+
+.img-minor-flex{
+    display: flex;
+    justify-content: center;
+}
+
+
+p.text-img{
+margin: auto;
+max-width: 470px;
+font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+font-size: 16.24px;
+}
+
+p.text-img-2{
+    font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+    font-size: 13.02px;
+}
+
+.link{
+    text-align: center;
+    padding: 15px;
+}
+
+.black-box-2 a {
+    color: black;
+    text-decoration: none;
+   background-color: white;
+   padding: 3px;
+   border-radius: 5px;
+   font-size: 14px;
+   font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+}
+
+.black-box-3 {
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-size: 13px;
+    text-align: center;
+    width: 475px;
+    margin-bottom: 20px;
+}
+#section_3 .w-850 {
+display: flex;
+justify-content: space-between;
+}
+
+p.img-info{
+    max-width: 328px;
+    font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+    font-size: 15.44px;
+    text-align: center;
+    margin: auto;
+}
+
+.box-minor-2 {
+width: 353px;
+}
+
+.box-minor{
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+p.img-info-2{
+    font-family: Impact, HGPGothicE, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+}
+
+p.img-info-3 {
+    font-family: Impact, HGPGothicE, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin: auto;
+}
+
+p.img-info-4 {
+    font-family: Impact, HGPGothicE, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin: auto;
+    color: #f1da19;
+}
+
+.box-minor-2 a {
+color: black;
+text-decoration: none;
+background-color: white;
+padding: 3px;
+border-radius: 5px;
+font-size: 14px;
+font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+border-style: solid;
+}
+
+.box-minor-3 {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+p.img-info-5 {
+    font-family: Impact, HGPGothicE, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin: auto;
+}
+
+p.img-info-6 {
+    font-family: Impact, HGPGothicE, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin: auto;
+}
+
+p.img-info-7 {
+    font-family: Impact, HGPGothicE, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin: auto;
+    color: #f1da19;
+}
+
+.black-box-4 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 34px;
+    width: 850px;
+    font-size: 14px;
+}
+
+.box-minor-4 {
+    width: 632px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+    margin: auto;
+}
+
+.img-info-8 {
+    font-family: Impact, HGPGothicE, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+}
+
+.img-info-9 {
+    font-family: Impact, HGPGothicE, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+}
+
+.black-box-5 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-size: 14px;
+}
+
+.black-box-5 .link a {
+   color: white;
+    text-decoration: none;
+   background-color: #8c0505;
+   padding: 8px;
+   border-radius: 5px;
+   font-size: 14px;
+   font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+}
+
+.black-box-5 .link.blue a {
+   background-color: #074caa;
+}
+
+.black-box-5 .link.white a {
+   background-color: #fff;
+   color: #000;
+}
+
+.black-box-5 .links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
